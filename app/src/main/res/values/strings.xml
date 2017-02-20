@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Popular Movies</string>
-    <string name="tmdb_api">1da910e4b976f03be337d3eaff80c4b3</string>
+    <string name="tmdb_api">YOUR_API_KEY_GOES_HERE</string>
     <string name="example_title">Android</string>
     <string name="example_release">09–23–2008</string>
     <string name="example_vote_average">9.7/10</string>
