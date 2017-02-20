@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="tmdb_api">1da910e4b976f03be337d3eaff80c4b3</string>
+    <string name="example_title">Android</string>
+    <string name="example_release">09–23–2008</string>
+    <string name="example_vote_average">9.7/10</string>
+    <string name="example_popularity">50,000</string>
+    <string name="example_synopsis">The story of a little green robot who could do anything</string>
+    <string name="title_activity_movie_details">Movie Details</string>
+    <string name="release_date_header">Release Date</string>
+    <string name="vote_average_header">Vote Avg</string>
+    <string name="popularity_header">Popularity Rank</string>
+    <string name="no_release_date_found">No release date available</string>
+    <string name="no_synopsis_found">No synopsis available</string>
+    <string name="parcel_movie">movie</string>
+    <string name="pref_sort_method_key">SORT_METHOD</string>
+    <string name="sort_vote_avg">SORT_VOTE_AVERAGE_DESC</string>
+    <string name="sort_rank">SORT_POPULARITY_DESC</string>
+    <string name="tmdb_sort_pop_desc">popularity.desc</string>
+    <string name="tmdb_sort_vote_avg_desc">vote_average.desc</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="internet_error_message">Internet connectivity required</string>
+</resources>

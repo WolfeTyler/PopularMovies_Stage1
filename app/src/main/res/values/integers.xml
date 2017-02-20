@@ -1,0 +1,4 @@
+<resources>
+    <integer name="tmdb_poster_height">278</integer>
+    <integer name="tmdb_poster_width">185</integer>
+</resources>
